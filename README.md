@@ -1,0 +1,1 @@
+A simple bootstrap for ArcGIS Runtime Android Project for Android Studio
